@@ -2,7 +2,7 @@
 
 class NomeClasse
 {
-   
+
    // Primo esercizio
    private static void StampaSaluto(string nome)
    {
@@ -38,12 +38,13 @@ class NomeClasse
       }
       else
       {
-         return 0;
+         return baseNum;
       }
       
    }
 
 
+   // Main
    static void Main(string [] args)
    {
       StampaSaluto("Ciccio");
