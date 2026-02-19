@@ -1,0 +1,14 @@
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/obj/Debug/net10.0/EserciziMattina.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/obj/Debug/net10.0/EserciziMattina.AssemblyInfoInputs.cache
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/obj/Debug/net10.0/EserciziMattina.AssemblyInfo.cs
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/obj/Debug/net10.0/EserciziMattina.csproj.CoreCompileInputs.cache
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/bin/Debug/net10.0/EserciziMattina
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/bin/Debug/net10.0/EserciziMattina.deps.json
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/bin/Debug/net10.0/EserciziMattina.runtimeconfig.json
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/bin/Debug/net10.0/EserciziMattina.dll
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/bin/Debug/net10.0/EserciziMattina.pdb
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/obj/Debug/net10.0/EserciziMattina.dll
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/obj/Debug/net10.0/refint/EserciziMattina.dll
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/obj/Debug/net10.0/EserciziMattina.pdb
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/obj/Debug/net10.0/EserciziMattina.genruntimeconfig.cache
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/EserciziMattina/obj/Debug/net10.0/ref/EserciziMattina.dll

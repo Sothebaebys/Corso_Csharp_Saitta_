@@ -1,0 +1,14 @@
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/bin/Debug/net10.0/PrimoProj
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/bin/Debug/net10.0/PrimoProj.deps.json
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/bin/Debug/net10.0/PrimoProj.runtimeconfig.json
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/bin/Debug/net10.0/PrimoProj.dll
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/bin/Debug/net10.0/PrimoProj.pdb
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/obj/Debug/net10.0/PrimoProj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/obj/Debug/net10.0/PrimoProj.AssemblyInfoInputs.cache
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/obj/Debug/net10.0/PrimoProj.AssemblyInfo.cs
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/obj/Debug/net10.0/PrimoProj.csproj.CoreCompileInputs.cache
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/obj/Debug/net10.0/PrimoProj.dll
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/obj/Debug/net10.0/refint/PrimoProj.dll
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/obj/Debug/net10.0/PrimoProj.pdb
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/obj/Debug/net10.0/PrimoProj.genruntimeconfig.cache
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/01_Lun_16_02_26/PrimoProj/obj/Debug/net10.0/ref/PrimoProj.dll

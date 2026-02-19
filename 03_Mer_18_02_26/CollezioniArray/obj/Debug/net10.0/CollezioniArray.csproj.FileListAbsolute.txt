@@ -1,0 +1,14 @@
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/bin/Debug/net10.0/CollezioniArray
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/bin/Debug/net10.0/CollezioniArray.deps.json
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/bin/Debug/net10.0/CollezioniArray.runtimeconfig.json
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/bin/Debug/net10.0/CollezioniArray.dll
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/bin/Debug/net10.0/CollezioniArray.pdb
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/obj/Debug/net10.0/CollezioniArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/obj/Debug/net10.0/CollezioniArray.AssemblyInfoInputs.cache
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/obj/Debug/net10.0/CollezioniArray.AssemblyInfo.cs
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/obj/Debug/net10.0/CollezioniArray.csproj.CoreCompileInputs.cache
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/obj/Debug/net10.0/CollezioniArray.dll
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/obj/Debug/net10.0/refint/CollezioniArray.dll
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/obj/Debug/net10.0/CollezioniArray.pdb
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/obj/Debug/net10.0/CollezioniArray.genruntimeconfig.cache
+/Users/a3b/Desktop/CiaoBe/CorsoCsharp/03_Mer_18_02_26/CollezioniArray/obj/Debug/net10.0/ref/CollezioniArray.dll
