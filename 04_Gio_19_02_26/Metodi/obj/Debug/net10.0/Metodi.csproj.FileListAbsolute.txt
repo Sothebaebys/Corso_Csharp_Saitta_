@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/bin/Debug/net10.0/Metodi
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/bin/Debug/net10.0/Metodi.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/bin/Debug/net10.0/Metodi.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/bin/Debug/net10.0/Metodi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/bin/Debug/net10.0/Metodi.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/obj/Debug/net10.0/Metodi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/obj/Debug/net10.0/Metodi.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/obj/Debug/net10.0/Metodi.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/obj/Debug/net10.0/Metodi.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/obj/Debug/net10.0/Metodi.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/obj/Debug/net10.0/Metodi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/obj/Debug/net10.0/refint/Metodi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/obj/Debug/net10.0/Metodi.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/obj/Debug/net10.0/Metodi.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Metodi/obj/Debug/net10.0/ref/Metodi.dll

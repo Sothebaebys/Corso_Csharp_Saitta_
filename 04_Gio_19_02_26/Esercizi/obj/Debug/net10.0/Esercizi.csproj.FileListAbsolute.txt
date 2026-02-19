@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/bin/Debug/net10.0/Esercizi
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/bin/Debug/net10.0/Esercizi.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/bin/Debug/net10.0/Esercizi.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/bin/Debug/net10.0/Esercizi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/bin/Debug/net10.0/Esercizi.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/obj/Debug/net10.0/Esercizi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/obj/Debug/net10.0/Esercizi.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/obj/Debug/net10.0/Esercizi.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/obj/Debug/net10.0/Esercizi.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/obj/Debug/net10.0/Esercizi.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/obj/Debug/net10.0/Esercizi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/obj/Debug/net10.0/refint/Esercizi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/obj/Debug/net10.0/Esercizi.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/obj/Debug/net10.0/Esercizi.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/04_Gio_19_02_26/Esercizi/obj/Debug/net10.0/ref/Esercizi.dll
