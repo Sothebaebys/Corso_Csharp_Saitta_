@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/bin/Debug/net10.0/EserciziPome
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/bin/Debug/net10.0/EserciziPome.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/bin/Debug/net10.0/EserciziPome.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/bin/Debug/net10.0/EserciziPome.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/bin/Debug/net10.0/EserciziPome.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/obj/Debug/net10.0/EserciziPome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/obj/Debug/net10.0/EserciziPome.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/obj/Debug/net10.0/EserciziPome.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/obj/Debug/net10.0/EserciziPome.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/obj/Debug/net10.0/EserciziPome.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/obj/Debug/net10.0/EserciziPome.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/obj/Debug/net10.0/refint/EserciziPome.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/obj/Debug/net10.0/EserciziPome.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/obj/Debug/net10.0/EserciziPome.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/05_Ven_20_02_26/EserciziPome/obj/Debug/net10.0/ref/EserciziPome.dll
