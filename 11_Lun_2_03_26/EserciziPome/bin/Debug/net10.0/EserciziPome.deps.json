@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EserciziPome/1.0.0": {
+        "runtime": {
+          "EserciziPome.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EserciziPome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

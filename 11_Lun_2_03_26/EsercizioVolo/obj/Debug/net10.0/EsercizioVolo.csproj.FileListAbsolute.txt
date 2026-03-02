@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/bin/Debug/net10.0/EsercizioVolo
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/bin/Debug/net10.0/EsercizioVolo.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/bin/Debug/net10.0/EsercizioVolo.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/bin/Debug/net10.0/EsercizioVolo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/bin/Debug/net10.0/EsercizioVolo.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/obj/Debug/net10.0/EsercizioVolo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/obj/Debug/net10.0/EsercizioVolo.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/obj/Debug/net10.0/EsercizioVolo.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/obj/Debug/net10.0/EsercizioVolo.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/obj/Debug/net10.0/EsercizioVolo.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/obj/Debug/net10.0/EsercizioVolo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/obj/Debug/net10.0/refint/EsercizioVolo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/obj/Debug/net10.0/EsercizioVolo.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/obj/Debug/net10.0/EsercizioVolo.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/11_Lun_2_03_26/EsercizioVolo/obj/Debug/net10.0/ref/EsercizioVolo.dll
