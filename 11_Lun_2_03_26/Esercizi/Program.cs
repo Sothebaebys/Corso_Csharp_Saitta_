@@ -99,6 +99,8 @@ class Program
                         break;
                      case(0):
                         Console.WriteLine(user.ToString());
+                        Console.WriteLine($"Fine modifiche..");
+                        isModificato = false;
                         break;
                      default:
                         Console.WriteLine($"Scelta non valida...");
