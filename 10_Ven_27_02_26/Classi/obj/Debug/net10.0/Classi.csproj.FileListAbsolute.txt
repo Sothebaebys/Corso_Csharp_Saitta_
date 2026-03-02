@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/bin/Debug/net10.0/Classi
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/bin/Debug/net10.0/Classi.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/bin/Debug/net10.0/Classi.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/bin/Debug/net10.0/Classi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/bin/Debug/net10.0/Classi.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/obj/Debug/net10.0/Classi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/obj/Debug/net10.0/Classi.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/obj/Debug/net10.0/Classi.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/obj/Debug/net10.0/Classi.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/obj/Debug/net10.0/Classi.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/obj/Debug/net10.0/Classi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/obj/Debug/net10.0/refint/Classi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/obj/Debug/net10.0/Classi.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/obj/Debug/net10.0/Classi.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/10_Ven_27_02_26/Classi/obj/Debug/net10.0/ref/Classi.dll
