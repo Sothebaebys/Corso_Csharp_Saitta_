@@ -44,9 +44,10 @@ public class Program
                anniServizioS = int.Parse(Console.ReadLine());
 
 
-               Fante fante1 = new Fante(nomeS,gradoS,anniServizioS,armaS);
+               // Fante fante1 = new Fante(nomeS,gradoS,anniServizioS,armaS);
 
-               listaSoldati.Add(fante1);
+               // listaSoldati.Add(fante1);
+               listaSoldati.Add(new Fante(nomeS,gradoS,anniServizioS,armaS));
                break;
 
             case ("2"):
@@ -66,8 +67,10 @@ public class Program
                anniServizioS = int.Parse(Console.ReadLine());
 
 
-               Artigliere artigliere1 = new Artigliere(nomeS,gradoS,anniServizioS,armaS,calibroS);
-               listaSoldati.Add(artigliere1);
+               //Artigliere artigliere1 = new Artigliere(nomeS,gradoS,anniServizioS,armaS,calibroS);
+               //listaSoldati.Add(artigliere1);
+
+               listaSoldati.Add(new Artigliere(nomeS,gradoS,anniServizioS,armaS,calibroS));
                break;
 
             case ("3"):

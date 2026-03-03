@@ -11,6 +11,7 @@
    {
       Console.WriteLine($"Il veicolo con targa ({Targa}) viene controllato..");
    }
+   
 }
 
 public class Auto : Veicolo
