@@ -42,6 +42,6 @@ public class Programma
       {
          Console.WriteLine($"{item.CalcolaArea}");
       }
-   
+
    }
 }
