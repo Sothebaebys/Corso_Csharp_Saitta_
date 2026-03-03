@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/obj/Debug/net10.0/EsercizioSoldati.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/obj/Debug/net10.0/EsercizioSoldati.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/obj/Debug/net10.0/EsercizioSoldati.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/obj/Debug/net10.0/EsercizioSoldati.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/obj/Debug/net10.0/EsercizioSoldati.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/bin/Debug/net10.0/EsercizioSoldati
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/bin/Debug/net10.0/EsercizioSoldati.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/bin/Debug/net10.0/EsercizioSoldati.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/bin/Debug/net10.0/EsercizioSoldati.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/bin/Debug/net10.0/EsercizioSoldati.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/obj/Debug/net10.0/EsercizioSoldati.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/obj/Debug/net10.0/refint/EsercizioSoldati.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/obj/Debug/net10.0/EsercizioSoldati.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/obj/Debug/net10.0/EsercizioSoldati.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioSoldati/obj/Debug/net10.0/ref/EsercizioSoldati.dll

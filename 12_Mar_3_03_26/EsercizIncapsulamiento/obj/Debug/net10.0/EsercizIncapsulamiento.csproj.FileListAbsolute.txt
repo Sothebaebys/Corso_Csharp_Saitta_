@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/bin/Debug/net10.0/EsercizIncapsulamiento
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/bin/Debug/net10.0/EsercizIncapsulamiento.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/bin/Debug/net10.0/EsercizIncapsulamiento.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/bin/Debug/net10.0/EsercizIncapsulamiento.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/bin/Debug/net10.0/EsercizIncapsulamiento.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/obj/Debug/net10.0/EsercizIncapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/obj/Debug/net10.0/EsercizIncapsulamiento.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/obj/Debug/net10.0/EsercizIncapsulamiento.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/obj/Debug/net10.0/EsercizIncapsulamiento.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/obj/Debug/net10.0/EsercizIncapsulamiento.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/obj/Debug/net10.0/EsercizIncapsulamiento.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/obj/Debug/net10.0/refint/EsercizIncapsulamiento.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/obj/Debug/net10.0/EsercizIncapsulamiento.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/obj/Debug/net10.0/EsercizIncapsulamiento.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizIncapsulamiento/obj/Debug/net10.0/ref/EsercizIncapsulamiento.dll
