@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/obj/Debug/net10.0/EsercizioOperatore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/obj/Debug/net10.0/EsercizioOperatore.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/obj/Debug/net10.0/EsercizioOperatore.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/obj/Debug/net10.0/EsercizioOperatore.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/obj/Debug/net10.0/EsercizioOperatore.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/bin/Debug/net10.0/EsercizioOperatore
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/bin/Debug/net10.0/EsercizioOperatore.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/bin/Debug/net10.0/EsercizioOperatore.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/bin/Debug/net10.0/EsercizioOperatore.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/bin/Debug/net10.0/EsercizioOperatore.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/obj/Debug/net10.0/EsercizioOperatore.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/obj/Debug/net10.0/refint/EsercizioOperatore.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/obj/Debug/net10.0/EsercizioOperatore.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/obj/Debug/net10.0/EsercizioOperatore.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioOperatore/obj/Debug/net10.0/ref/EsercizioOperatore.dll
