@@ -2,7 +2,6 @@
 
 public class Program
 {
-   //public static List<Soldato> listaSoldati = new List<Soldato>();
    
    public static string nomeS, gradoS, armaS;
    public static int anniServizioS, calibroS;

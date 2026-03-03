@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/bin/Debug/net10.0/EsercizioPolimorfismo
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/bin/Debug/net10.0/EsercizioPolimorfismo.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/bin/Debug/net10.0/EsercizioPolimorfismo.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/bin/Debug/net10.0/EsercizioPolimorfismo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/bin/Debug/net10.0/EsercizioPolimorfismo.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/obj/Debug/net10.0/EsercizioPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/obj/Debug/net10.0/EsercizioPolimorfismo.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/obj/Debug/net10.0/EsercizioPolimorfismo.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/obj/Debug/net10.0/EsercizioPolimorfismo.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/obj/Debug/net10.0/EsercizioPolimorfismo.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/obj/Debug/net10.0/EsercizioPolimorfismo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/obj/Debug/net10.0/refint/EsercizioPolimorfismo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/obj/Debug/net10.0/EsercizioPolimorfismo.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/obj/Debug/net10.0/EsercizioPolimorfismo.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/12_Mar_3_03_26/EsercizioPolimorfismo/obj/Debug/net10.0/ref/EsercizioPolimorfismo.dll
