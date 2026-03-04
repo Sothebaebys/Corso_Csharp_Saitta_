@@ -9,7 +9,11 @@ public class Operatore
       }
       set
       {
-         _nome = Nome;
+         if (!string.IsNullOrEmpty(value))
+         {
+            _nome = value;
+         }
+
       }
    }
 
@@ -23,7 +27,7 @@ public class Operatore
       }
       set
       {
-         if (value == "giorno" || value == "notte")
+         if (value.ToLower() == "giorno" || value.ToLower() == "notte")
          {
             _turno = value;
          }
@@ -34,10 +38,10 @@ public class Operatore
       }
    }
 
-   public Operatore (string nome, string turno)
+   public Operatore (string Nome, string Turno)
    {
-      this.Nome = nome;
-      this.Turno = turno;
+      this.Nome = Nome;
+      this.Turno = Turno;
    }
    
    
@@ -70,15 +74,15 @@ public class OperatoreEmergenza : Operatore
       }
    }
 
-   public OperatoreEmergenza(string nome, string turno, int livelloUrgenza) : base(nome, turno)
+   public OperatoreEmergenza(string Nome, string Turno, int livelloUrgenza) : base(Nome, Turno)
    {
       this.LivelloUrgenza = livelloUrgenza;
    }
-   
+
    public override void EseguiCompito()
    {
       base.EseguiCompito();
-      Console.WriteLine($"Gestione emergenza di livello: {LivelloUrgenza}");
+      Console.WriteLine($"L'operatore {Nome}, sta gestendo un'emergenza di livello {LivelloUrgenza}");
    }
 
 }
@@ -94,7 +98,10 @@ public class OperatoreSicurezza : Operatore
       }
       set
       {
-         _areaSorvegliata = AreaSorvegliata;
+         if (!string.IsNullOrEmpty(value))
+         {
+            _areaSorvegliata = value;
+         }
       }
    }
 
@@ -107,7 +114,7 @@ public class OperatoreSicurezza : Operatore
    public override void EseguiCompito()
    {
       base.EseguiCompito();
-      Console.WriteLine($"Sorveglianza dell'area {AreaSorvegliata}.");
+      Console.WriteLine($"L'operatore {Nome}, sta effettuando la sorveglianza dell'area {AreaSorvegliata}.");
    }
 }
 
@@ -136,6 +143,6 @@ public class OperatoreLogistica : Operatore
    public override void EseguiCompito()
    {
       base.EseguiCompito();
-      Console.WriteLine($"Coordinamento di {NumeroConsegne} consegne");
+      Console.WriteLine($"L'operatore {Nome}, sta effettuando il coordinamento di {NumeroConsegne} consegne");
    }
 }

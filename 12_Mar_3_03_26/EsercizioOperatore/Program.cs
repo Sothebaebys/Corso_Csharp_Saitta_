@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-class Program
+﻿class Program
 {
       public static void Menu()
    {
@@ -63,7 +61,7 @@ class Program
                      nome = Console.ReadLine();
 
                      Console.WriteLine($"Inserisci il turno (giorno/notte):");
-                     turno =Console.ReadLine();
+                     turno = Console.ReadLine();
 
                      Console.WriteLine($"Inserisci l'area di sorveglianza:");
                      areaSorvegliata = Console.ReadLine();
@@ -95,9 +93,9 @@ class Program
             case ("2"):
                foreach (Operatore item in listaOperatori)
                {
-                  Console.WriteLine($"Nome : {item.Nome}");
-                  Console.WriteLine($"Turno: {item.Turno}");
-                  Console.WriteLine($"Tipo: {item.GetType()}");
+                  Console.WriteLine($"Nome : {item.Nome}\n");
+                  Console.WriteLine($"Turno: {item.Turno}\n");
+                  Console.WriteLine($"Tipo: {item.GetType()}\n");
 
                }
                break;
@@ -107,6 +105,8 @@ class Program
                foreach (Operatore item in listaOperatori)
                {
                   item.EseguiCompito();
+                  Console.WriteLine("\n");
+                  
                   
                }
                break;
