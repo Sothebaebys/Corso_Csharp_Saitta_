@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/obj/Debug/net10.0/EsercizioEnteFormativo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/obj/Debug/net10.0/EsercizioEnteFormativo.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/obj/Debug/net10.0/EsercizioEnteFormativo.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/obj/Debug/net10.0/EsercizioEnteFormativo.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/obj/Debug/net10.0/EsercizioEnteFormativo.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/bin/Debug/net10.0/EsercizioEnteFormativo
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/bin/Debug/net10.0/EsercizioEnteFormativo.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/bin/Debug/net10.0/EsercizioEnteFormativo.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/bin/Debug/net10.0/EsercizioEnteFormativo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/bin/Debug/net10.0/EsercizioEnteFormativo.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/obj/Debug/net10.0/EsercizioEnteFormativo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/obj/Debug/net10.0/refint/EsercizioEnteFormativo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/obj/Debug/net10.0/EsercizioEnteFormativo.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/obj/Debug/net10.0/EsercizioEnteFormativo.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioEnteFormativo/obj/Debug/net10.0/ref/EsercizioEnteFormativo.dll

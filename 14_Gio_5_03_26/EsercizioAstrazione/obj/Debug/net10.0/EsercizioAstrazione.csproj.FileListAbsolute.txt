@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/obj/Debug/net10.0/EsercizioAstrazione.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/obj/Debug/net10.0/EsercizioAstrazione.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/obj/Debug/net10.0/EsercizioAstrazione.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/obj/Debug/net10.0/EsercizioAstrazione.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/obj/Debug/net10.0/EsercizioAstrazione.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/bin/Debug/net10.0/EsercizioAstrazione
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/bin/Debug/net10.0/EsercizioAstrazione.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/bin/Debug/net10.0/EsercizioAstrazione.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/bin/Debug/net10.0/EsercizioAstrazione.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/bin/Debug/net10.0/EsercizioAstrazione.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/obj/Debug/net10.0/EsercizioAstrazione.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/obj/Debug/net10.0/refint/EsercizioAstrazione.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/obj/Debug/net10.0/EsercizioAstrazione.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/obj/Debug/net10.0/EsercizioAstrazione.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/EsercizioAstrazione/obj/Debug/net10.0/ref/EsercizioAstrazione.dll

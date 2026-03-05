@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/bin/Debug/net10.0/Astrazione
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/bin/Debug/net10.0/Astrazione.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/bin/Debug/net10.0/Astrazione.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/bin/Debug/net10.0/Astrazione.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/bin/Debug/net10.0/Astrazione.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/obj/Debug/net10.0/Astrazione.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/obj/Debug/net10.0/Astrazione.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/obj/Debug/net10.0/Astrazione.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/obj/Debug/net10.0/Astrazione.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/obj/Debug/net10.0/Astrazione.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/obj/Debug/net10.0/Astrazione.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/obj/Debug/net10.0/refint/Astrazione.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/obj/Debug/net10.0/Astrazione.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/obj/Debug/net10.0/Astrazione.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/Astrazione/obj/Debug/net10.0/ref/Astrazione.dll

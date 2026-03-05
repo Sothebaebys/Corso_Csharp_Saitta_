@@ -13,7 +13,6 @@ public class Operatore
          {
             _nome = value;
          }
-
       }
    }
 
