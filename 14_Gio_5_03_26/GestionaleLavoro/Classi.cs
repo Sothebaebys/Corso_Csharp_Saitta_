@@ -119,8 +119,21 @@ public class Dipendente : Persona
       }
    }
    
+   private bool isInServizio;
+   public bool isInServizio
+   {
+      get
+      {
+         return _isInServizio;
+      }
+      set
+      {
+         _isInServizio = value ;
+      }
+   }
    #endregion
    
+
    //Costruttore
    public Dipendente (string nome,string cognome,int id, string ruolo, string anzianita) : base(nome, cognome, id)
    {
@@ -134,15 +147,108 @@ public class Dipendente : Persona
 
 }
 
-
-
-public interface IBadge
+sealed class Turno : IBadge
 {
-   private int _id;
    private string _turno;
+   public string turno
+   {
+      get{ return _turno;}
+      set
+      {
+         if (value.ToLower() == "g" || value.ToLower()=="n")
+         {
+            _turno = value.ToLower();
+         }
+         else{ 
+            throw new ArgumentException("Turno non valido.\n Inserire un valore valido (g/n)");
+         }
+      }
+   }
+
+   private int _id;
+   public int id
+   {
+      get {return id;}
+      set
+      {
+         _id = value;
+      }
+   }
 
    private DateTime _dataInizio;
+   public DateTime dataInizio
+   {
+      get { return _dataInizio;}
+      set
+      {
+         _dataInizio = DateTime.Now();
+      }
+   }
+   
    private DateTime _dataFine;
+   public DateTime dataFine
+   {
+      get { return _dataFine;}
+      set
+      {
+         _dataFine = DateTime.Now();
+      }
+   }
 
+   private bool _isAttivo = false;
+   public bool isAttivo
+   {
+      get{return _isAttivo;}
+      set
+      {
+         _isAttivo = value;
+      }
+   }
+   public static void VerificaDati(string datoStr, string proprieta)
+   {
+      bool isValid = false;
 
+      while (!isValid)
+      {
+         try
+            {
+               proprieta = datoStr;
+               isValid = true;
+            }
+         catch (ArgumentException e)
+         {
+            Console.WriteLine($"Errore: {e}\n Inserisci un testo valido:");
+            proprieta = Console.ReadLine();
+         }
+      }
+   }
+
+   public Turno(string turno, int id)
+   {
+      VerificaDati(turno, this.turno);
+   }
+
+   public void InfoTurno()
+   {
+      if(turno.ToLower() == "g")
+      {
+         Console.WriteLine($"Turno mattina");
+         
+      }
+      else
+      {
+         Console.WriteLine($"Turno sera");
+      }
+
+   }
+
+   public bool Ingresso()
+   {
+      
+   }
+
+   public bool Uscita()
+   {
+      
+   }
 }
