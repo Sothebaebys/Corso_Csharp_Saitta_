@@ -1,11 +1,7 @@
+// Interfaccia badge pensata per eventuali altri utilizzi (visitatori,carico scarico merci, etc...)
 public interface IBadge
 {
-   private int _id;
-
-   private DateTime _dataInizio;
-   private DateTime _dataFine;
-
-   public bool Ingresso();
-   public bool Uscita();
+   public void Ingresso();
+   public void Uscita();
 
 }

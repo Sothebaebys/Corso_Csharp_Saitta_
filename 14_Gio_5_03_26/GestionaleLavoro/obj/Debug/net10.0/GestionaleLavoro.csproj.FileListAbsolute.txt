@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/obj/Debug/net10.0/GestionaleLavoro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/obj/Debug/net10.0/GestionaleLavoro.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/obj/Debug/net10.0/GestionaleLavoro.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/obj/Debug/net10.0/GestionaleLavoro.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/obj/Debug/net10.0/GestionaleLavoro.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/bin/Debug/net10.0/GestionaleLavoro
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/bin/Debug/net10.0/GestionaleLavoro.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/bin/Debug/net10.0/GestionaleLavoro.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/bin/Debug/net10.0/GestionaleLavoro.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/bin/Debug/net10.0/GestionaleLavoro.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/obj/Debug/net10.0/GestionaleLavoro.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/obj/Debug/net10.0/refint/GestionaleLavoro.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/obj/Debug/net10.0/GestionaleLavoro.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/obj/Debug/net10.0/GestionaleLavoro.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/14_Gio_5_03_26/GestionaleLavoro/obj/Debug/net10.0/ref/GestionaleLavoro.dll
