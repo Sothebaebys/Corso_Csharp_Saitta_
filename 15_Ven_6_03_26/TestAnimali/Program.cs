@@ -14,6 +14,7 @@ public class Program
    }
    public static void Main(string[] args)
    {
+      //Creo una lista per gli animali Ho aggiunto due animali per testare io 
       List<Animale> listAnimali = new List<Animale>()
       {
       new Mucca("Carolina",3),
@@ -26,7 +27,7 @@ public class Program
       Console.WriteLine($"Benvenuto nella fattoria");
 
       bool isAttivo = true;
-
+      //Ciclo per iterare tra le scelte del menù
       while (isAttivo)
       {
          Menu();
@@ -42,6 +43,7 @@ public class Program
                nome = Console.ReadLine();
                Console.WriteLine($"Inserisci l'età della creatura:");
                eta = int.Parse(Console.ReadLine());
+               //Switch per la scelta del tipo degli animali
                switch (tipoAnim)
                {
                   //pecora
