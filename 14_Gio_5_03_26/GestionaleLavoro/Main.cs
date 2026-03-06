@@ -7,7 +7,7 @@ public class Program
    public static int id;
 
    //Metodo per la visualizzazione del menù
-    public static void MenuInt()
+   public static void MenuInt()
     {
         Console.WriteLine($"\nSeleziona l'azione.\nPremi: ");
         Console.WriteLine($"-1 Per aggiungere un dipendente.");
@@ -20,14 +20,14 @@ public class Program
         Console.WriteLine($"-0 Per uscire.");
     }
 
-    public static void Main(string[] args)
-    {
+   public static void Main(string[] args)
+   {
       // Dati di prova
       List<Dipendente> listaDipendenti = new List<Dipendente>()
       {
-         new Dipendente("Mario", "Rossi", 1, "developer", Anzianita.senior),
-         new Dipendente("Luca", "Bianchi", 2, "designer", Anzianita.junior),
-         new Dipendente("Anna", "Verdi", 3, "manager", Anzianita.middle),
+         new Dipendente("Mario", "Mario", 1, "developer", Anzianita.senior),
+         new Dipendente("Luca", "Barbagianni", 2, "designer", Anzianita.junior),
+         new Dipendente("Ciccio", "Miao", 3, "manager", Anzianita.middle),
       };
       
 
@@ -160,9 +160,9 @@ public class Program
                //Caso default
                default:
 
-                    Console.WriteLine("Scelta non valida.");
-                    break;
+                  Console.WriteLine("Scelta non valida.");
+                  break;
             }
-        }
-    }
+      }
+   }
 }

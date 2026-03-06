@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/obj/Debug/net10.0/TestAnimali.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/obj/Debug/net10.0/TestAnimali.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/obj/Debug/net10.0/TestAnimali.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/obj/Debug/net10.0/TestAnimali.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/obj/Debug/net10.0/TestAnimali.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/bin/Debug/net10.0/TestAnimali
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/bin/Debug/net10.0/TestAnimali.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/bin/Debug/net10.0/TestAnimali.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/bin/Debug/net10.0/TestAnimali.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/bin/Debug/net10.0/TestAnimali.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/obj/Debug/net10.0/TestAnimali.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/obj/Debug/net10.0/refint/TestAnimali.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/obj/Debug/net10.0/TestAnimali.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/obj/Debug/net10.0/TestAnimali.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/15_Ven_6_03_26/TestAnimali/obj/Debug/net10.0/ref/TestAnimali.dll
