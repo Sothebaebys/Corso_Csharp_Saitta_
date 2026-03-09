@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EsempioFacile/1.0.0": {
+        "runtime": {
+          "EsempioFacile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EsempioFacile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

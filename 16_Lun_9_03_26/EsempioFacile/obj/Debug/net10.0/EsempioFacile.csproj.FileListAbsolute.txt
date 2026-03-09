@@ -3,3 +3,13 @@
 /Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/obj/Debug/net10.0/EsempioFacile.AssemblyInfo.cs
 /Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/obj/Debug/net10.0/EsempioFacile.csproj.CoreCompileInputs.cache
 /Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/obj/Debug/net10.0/EsempioFacile.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/bin/Debug/net10.0/EsempioFacile
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/bin/Debug/net10.0/EsempioFacile.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/bin/Debug/net10.0/EsempioFacile.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/bin/Debug/net10.0/EsempioFacile.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/bin/Debug/net10.0/EsempioFacile.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/obj/Debug/net10.0/EsempioFacile.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/obj/Debug/net10.0/refint/EsempioFacile.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/obj/Debug/net10.0/EsempioFacile.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/obj/Debug/net10.0/EsempioFacile.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioFacile/obj/Debug/net10.0/ref/EsempioFacile.dll

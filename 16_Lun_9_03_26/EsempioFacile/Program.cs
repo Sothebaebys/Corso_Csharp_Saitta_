@@ -15,15 +15,16 @@
    }
    public static void Main(string[] args)
    {
-      var sistemConfig = S_ConfigurazioneSistema.istanza;
+      var mod1 = S_ConfigurazioneSistema.istanza;
+      var mod2 = S_ConfigurazioneSistema.istanza;
 
-      Modulo mod1 = new Modulo(sistemConfig);
-      Modulo mod2 = new Modulo(sistemConfig);
 
       bool isRunning = true;
       int counter = 1;
+
       while (isRunning)
       {
+
          Menu();
          string scelta = Console.ReadLine();
          switch (scelta)
@@ -50,25 +51,29 @@
                Console.WriteLine($"Seleziona la chiave di cui vuoi vedere il valore");
                string SChiave =Console.ReadLine();
                
-               sistemConfig.Leggi(SChiave);
+               mod1.Leggi(SChiave);
                break;
             case ("3"):
-               sistemConfig.StampaTutte();
+               mod2.StampaTutte();
                break;
             case ("4"):
+               Console.WriteLine($"{mod1.GetHashCode().ToString()}");
+               Console.WriteLine($"{mod2.GetHashCode().ToString()}");
+               
                break;
             case ("n"):
                break;
             case ("0"):
-            Console.WriteLine($"Goodbye");
+               Console.WriteLine($"Goodbye");
+               isRunning = false;
                break;
             default:
                break;
          }
-         
+         counter ++;
       }
 
 
-      mod1.aggiorno();
+      //mod1.aggiorno();
    }
 }

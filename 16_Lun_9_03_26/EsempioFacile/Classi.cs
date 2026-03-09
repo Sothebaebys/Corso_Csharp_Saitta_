@@ -45,13 +45,17 @@ public sealed class S_ConfigurazioneSistema
       {
          return $"il valore corrispondente è: {diz[key]}";
       }
+      else
+      {
+         return "Nessun valore corrispondente";
+      }
    }
 
    public void StampaTutte()
    {
       foreach (var item in diz)
       {
-         Console.WriteLine($"Chiave: {diz.Key}\nValore: {diz.Value}");
+         Console.WriteLine($"Chiave: {diz.Keys}\nValore: {diz.Values}");
       }
    }
 
