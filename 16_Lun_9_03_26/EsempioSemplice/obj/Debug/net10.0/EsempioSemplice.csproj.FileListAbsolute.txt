@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/obj/Debug/net10.0/EsempioSemplice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/obj/Debug/net10.0/EsempioSemplice.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/obj/Debug/net10.0/EsempioSemplice.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/obj/Debug/net10.0/EsempioSemplice.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/obj/Debug/net10.0/EsempioSemplice.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/bin/Debug/net10.0/EsempioSemplice
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/bin/Debug/net10.0/EsempioSemplice.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/bin/Debug/net10.0/EsempioSemplice.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/bin/Debug/net10.0/EsempioSemplice.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/bin/Debug/net10.0/EsempioSemplice.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/obj/Debug/net10.0/EsempioSemplice.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/obj/Debug/net10.0/refint/EsempioSemplice.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/obj/Debug/net10.0/EsempioSemplice.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/obj/Debug/net10.0/EsempioSemplice.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioSemplice/obj/Debug/net10.0/ref/EsempioSemplice.dll

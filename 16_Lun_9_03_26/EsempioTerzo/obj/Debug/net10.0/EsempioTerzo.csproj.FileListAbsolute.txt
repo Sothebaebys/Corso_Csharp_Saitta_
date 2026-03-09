@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/bin/Debug/net10.0/EsempioTerzo
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/bin/Debug/net10.0/EsempioTerzo.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/bin/Debug/net10.0/EsempioTerzo.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/bin/Debug/net10.0/EsempioTerzo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/bin/Debug/net10.0/EsempioTerzo.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/obj/Debug/net10.0/EsempioTerzo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/obj/Debug/net10.0/EsempioTerzo.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/obj/Debug/net10.0/EsempioTerzo.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/obj/Debug/net10.0/EsempioTerzo.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/obj/Debug/net10.0/EsempioTerzo.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/obj/Debug/net10.0/EsempioTerzo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/obj/Debug/net10.0/refint/EsempioTerzo.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/obj/Debug/net10.0/EsempioTerzo.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/obj/Debug/net10.0/EsempioTerzo.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsempioTerzo/obj/Debug/net10.0/ref/EsempioTerzo.dll

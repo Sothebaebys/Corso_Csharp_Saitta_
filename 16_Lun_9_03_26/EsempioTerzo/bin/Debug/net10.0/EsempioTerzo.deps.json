@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EsempioTerzo/1.0.0": {
+        "runtime": {
+          "EsempioTerzo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EsempioTerzo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
