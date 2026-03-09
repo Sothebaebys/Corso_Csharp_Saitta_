@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/obj/Debug/net10.0/EsDoppioPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/obj/Debug/net10.0/EsDoppioPattern.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/obj/Debug/net10.0/EsDoppioPattern.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/obj/Debug/net10.0/EsDoppioPattern.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/obj/Debug/net10.0/EsDoppioPattern.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/bin/Debug/net10.0/EsDoppioPattern
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/bin/Debug/net10.0/EsDoppioPattern.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/bin/Debug/net10.0/EsDoppioPattern.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/bin/Debug/net10.0/EsDoppioPattern.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/bin/Debug/net10.0/EsDoppioPattern.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/obj/Debug/net10.0/EsDoppioPattern.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/obj/Debug/net10.0/refint/EsDoppioPattern.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/obj/Debug/net10.0/EsDoppioPattern.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/obj/Debug/net10.0/EsDoppioPattern.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsDoppioPattern/obj/Debug/net10.0/ref/EsDoppioPattern.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ProveSingleton")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ProveFactoryMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32bd9572aaa289b1c400ec24abcf0fca61429309")]
-[assembly: System.Reflection.AssemblyProductAttribute("ProveSingleton")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ProveSingleton")]
+[assembly: System.Reflection.AssemblyProductAttribute("ProveFactoryMethod")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ProveFactoryMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.

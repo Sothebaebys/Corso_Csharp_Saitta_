@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/bin/Debug/net10.0/EsFactoryMEthod1
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/bin/Debug/net10.0/EsFactoryMEthod1.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/bin/Debug/net10.0/EsFactoryMEthod1.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/bin/Debug/net10.0/EsFactoryMEthod1.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/bin/Debug/net10.0/EsFactoryMEthod1.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/obj/Debug/net10.0/EsFactoryMEthod1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/obj/Debug/net10.0/EsFactoryMEthod1.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/obj/Debug/net10.0/EsFactoryMEthod1.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/obj/Debug/net10.0/EsFactoryMEthod1.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/obj/Debug/net10.0/EsFactoryMEthod1.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/obj/Debug/net10.0/EsFactoryMEthod1.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/obj/Debug/net10.0/refint/EsFactoryMEthod1.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/obj/Debug/net10.0/EsFactoryMEthod1.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/obj/Debug/net10.0/EsFactoryMEthod1.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/EsFactoryMEthod1/obj/Debug/net10.0/ref/EsFactoryMEthod1.dll

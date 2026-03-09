@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/obj/Debug/net10.0/ShapeCreator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/obj/Debug/net10.0/ShapeCreator.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/obj/Debug/net10.0/ShapeCreator.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/obj/Debug/net10.0/ShapeCreator.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/obj/Debug/net10.0/ShapeCreator.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/bin/Debug/net10.0/ShapeCreator
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/bin/Debug/net10.0/ShapeCreator.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/bin/Debug/net10.0/ShapeCreator.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/bin/Debug/net10.0/ShapeCreator.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/bin/Debug/net10.0/ShapeCreator.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/obj/Debug/net10.0/ShapeCreator.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/obj/Debug/net10.0/refint/ShapeCreator.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/obj/Debug/net10.0/ShapeCreator.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/obj/Debug/net10.0/ShapeCreator.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/16_Lun_9_03_26/ShapeCreator/obj/Debug/net10.0/ref/ShapeCreator.dll
