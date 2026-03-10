@@ -1,3 +1,5 @@
+
+//Observer
 public interface IObserver
 {
    void Aggiorna(string msg);
