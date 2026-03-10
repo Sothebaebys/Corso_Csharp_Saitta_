@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EsObserver3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ProveDecorator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d4685fc9939592197f31f21fdf3b090996a6b79")]
-[assembly: System.Reflection.AssemblyProductAttribute("EsObserver3")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EsObserver3")]
+[assembly: System.Reflection.AssemblyProductAttribute("ProveDecorator")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ProveDecorator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.

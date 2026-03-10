@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/bin/Debug/net10.0/ProveDecorator
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/bin/Debug/net10.0/ProveDecorator.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/bin/Debug/net10.0/ProveDecorator.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/bin/Debug/net10.0/ProveDecorator.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/bin/Debug/net10.0/ProveDecorator.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/obj/Debug/net10.0/ProveDecorator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/obj/Debug/net10.0/ProveDecorator.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/obj/Debug/net10.0/ProveDecorator.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/obj/Debug/net10.0/ProveDecorator.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/obj/Debug/net10.0/ProveDecorator.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/obj/Debug/net10.0/ProveDecorator.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/obj/Debug/net10.0/refint/ProveDecorator.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/obj/Debug/net10.0/ProveDecorator.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/obj/Debug/net10.0/ProveDecorator.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/ProveDecorator/obj/Debug/net10.0/ref/ProveDecorator.dll

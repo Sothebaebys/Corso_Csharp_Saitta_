@@ -1,3 +1,5 @@
+
+#region Interfacce
 //Osservatore
 public interface IObserver
 {
@@ -13,8 +15,9 @@ public interface ISoggetto
    void Notifica(string nomeUtente); 
 }
 
+#endregion
 
-
+#region Factory method + classe user
 //Factory Method
 public static class UserFactory
 {
@@ -42,10 +45,15 @@ public class Utente
 
 }
 
+#endregion
 
+#region Osservato speciale
 //OSSERVATO
 public class GestoreCreazioneUtente : ISoggetto
 {
+   //private static GestoreCreazioneUtente _istanza;
+
+   //private GestoreCreazioneUtente();
    private readonly List<IObserver> _listaObserver = new List<IObserver>();
 
    public void Registra(IObserver observer)
@@ -73,12 +81,12 @@ public class GestoreCreazioneUtente : ISoggetto
    public void CreaUtente(string nome)
    {
       Utente user= UserFactory.Crea(nome);
-      Console.WriteLine($"Creo Utente.");
+      Console.WriteLine($"Creo Utente. . .");
       Notifica(nome);
    }
 }
 
-
+#endregion
 
 #region OSSERVATORI
 //Osservatore
@@ -98,6 +106,44 @@ public class ModuloMarketing : IObserver
    {
       Console.WriteLine($"L'utente {nomeUtente} è stato notato dal modulo marketing");
    }
+}
+
+#endregion
+
+#region Singleton
+public class Singleton : IObserver
+{
+   private static Singleton _istanza;
+
+   private Singleton()
+   {
+      
+   }
+
+   public static Singleton getIstanza
+   {
+      get
+      {
+         if (_istanza == null)
+         {
+            _istanza = new Singleton();
+
+         }
+         return _istanza;
+      }
+   }
+
+   public void Specifica()
+   {
+      Console.WriteLine($"L'utente è speciale");
+      
+   }
+
+   public void NotificaCreazione(string nomeUtente)
+   {
+      Console.WriteLine($"L'utente {nomeUtente} è stato aggiunto al singleton");
+   }
+
 }
 
 #endregion

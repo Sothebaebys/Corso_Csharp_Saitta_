@@ -8,6 +8,9 @@
 
       creatore.Registra(new ModuloMarketing());
 
+      creatore.Registra(Singleton.getIstanza);
+
+
       bool isRunning = true;
       while (isRunning)
       {
