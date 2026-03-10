@@ -10,7 +10,7 @@ public class Caffe : IBevanda
 {
    public string Descrizione()
    {
-      Console.WriteLine($"Caffè, che te lo dico a fare");
+      Console.WriteLine($"Caffè");
       return "Caffè";
    }
 
@@ -47,18 +47,18 @@ public abstract class DecoratoreBevanda : IBevanda
       _componente = bevanda;
    }
 
-   public virtual void Descrizione()
+   public virtual string Descrizione()
    {
-      _componente.Descrizione();
+      return _componente.Descrizione()+"";
    }
 
-   public virtual void Costo()
+   public virtual double Costo()
    {
-      _componente.Costo();
+      return _componente.Costo()+0.0d;
    }
 
 }
-
+//Decoratori concreti
 public class ConLatte : DecoratoreBevanda
 {
    public ConLatte(IBevanda bevanda) : base (bevanda)
@@ -68,11 +68,54 @@ public class ConLatte : DecoratoreBevanda
 
    public override string Descrizione()
    {
-      return base.Descrizione()+"\nCon aggiunta di latte..";
+      Console.WriteLine($"Con aggiunta di latte..");
+      return base.Descrizione()+"\nCon aggiunta di latte";
    }
    public override double Costo()
    {
+      Console.WriteLine($"Con latte: +1.00Eur");
       return base.Costo()+ 1.00d;
+   }
+}
+
+public class ConCioccolato : DecoratoreBevanda
+{
+   public ConCioccolato(IBevanda bevanda) : base (bevanda)
+   {
+      
+   }
+
+   public override string Descrizione()
+   {
+      Console.WriteLine($"Con aggiunta di cioccolato..");
+      return base.Descrizione()+"\nCon aggiunta di cioccolato";
+   }
+   public override double Costo()
+   {
+      Console.WriteLine($"Con cioccolato: +1.00Eur");
+      return base.Costo()+1.00d;
+   }
+}
+
+public class ConPanna : DecoratoreBevanda
+{
+   public ConPanna(IBevanda bevanda) : base (bevanda)
+   {
+      
+   }
+
+   public override string Descrizione()
+   {
+      base.Descrizione();
+      Console.WriteLine($"Con aggiunta di panna..");
+      
+      return "\nCon aggiunta di panna";
+   }
+   public override double Costo()
+   {
+      
+      Console.WriteLine($"Con panna: +1.00 Eur ");
+      return base.Costo()+1.00d;
    }
 }
 
