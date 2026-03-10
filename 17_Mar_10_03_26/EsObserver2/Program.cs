@@ -12,6 +12,7 @@
 
       osservato.SyncData("Ambarabaciccicocò");
       osservato.SyncData("Han bombardato anche il bistrot");
+
    }
 
 }
