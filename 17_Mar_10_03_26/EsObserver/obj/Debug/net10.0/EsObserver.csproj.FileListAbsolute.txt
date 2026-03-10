@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/bin/Debug/net10.0/EsObserver
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/bin/Debug/net10.0/EsObserver.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/bin/Debug/net10.0/EsObserver.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/bin/Debug/net10.0/EsObserver.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/bin/Debug/net10.0/EsObserver.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/obj/Debug/net10.0/EsObserver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/obj/Debug/net10.0/EsObserver.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/obj/Debug/net10.0/EsObserver.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/obj/Debug/net10.0/EsObserver.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/obj/Debug/net10.0/EsObserver.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/obj/Debug/net10.0/EsObserver.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/obj/Debug/net10.0/refint/EsObserver.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/obj/Debug/net10.0/EsObserver.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/obj/Debug/net10.0/EsObserver.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/17_Mar_10_03_26/EsObserver/obj/Debug/net10.0/ref/EsObserver.dll
