@@ -31,7 +31,7 @@ public abstract class Decorator : IComponent
     // Delegazione dell'operazione al componente interno
    public virtual void Operation()
    {
-      _component.Operation();
+       _component.Operation();
    }
 }
 
