@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsDecoFact", "EsDecoFact\EsDecoFact.csproj", "{8F453BE4-DFC6-AD27-236E-C5F9B1CC7DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F453BE4-DFC6-AD27-236E-C5F9B1CC7DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F453BE4-DFC6-AD27-236E-C5F9B1CC7DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F453BE4-DFC6-AD27-236E-C5F9B1CC7DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F453BE4-DFC6-AD27-236E-C5F9B1CC7DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39CA008B-39D4-4B33-979B-1D66B1232BF5}
+	EndGlobalSection
+EndGlobal

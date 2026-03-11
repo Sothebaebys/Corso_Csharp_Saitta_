@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/bin/Debug/net10.0/EsDecoFact
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/bin/Debug/net10.0/EsDecoFact.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/bin/Debug/net10.0/EsDecoFact.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/bin/Debug/net10.0/EsDecoFact.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/bin/Debug/net10.0/EsDecoFact.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/obj/Debug/net10.0/EsDecoFact.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/obj/Debug/net10.0/EsDecoFact.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/obj/Debug/net10.0/EsDecoFact.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/obj/Debug/net10.0/EsDecoFact.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/obj/Debug/net10.0/EsDecoFact.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/obj/Debug/net10.0/EsDecoFact.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/obj/Debug/net10.0/refint/EsDecoFact.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/obj/Debug/net10.0/EsDecoFact.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/obj/Debug/net10.0/EsDecoFact.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsDecoFact/obj/Debug/net10.0/ref/EsDecoFact.dll

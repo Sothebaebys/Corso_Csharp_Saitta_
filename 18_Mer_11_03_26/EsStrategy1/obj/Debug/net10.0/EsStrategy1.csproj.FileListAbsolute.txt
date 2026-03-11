@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/obj/Debug/net10.0/EsStrategy1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/obj/Debug/net10.0/EsStrategy1.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/obj/Debug/net10.0/EsStrategy1.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/obj/Debug/net10.0/EsStrategy1.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/obj/Debug/net10.0/EsStrategy1.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/bin/Debug/net10.0/EsStrategy1
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/bin/Debug/net10.0/EsStrategy1.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/bin/Debug/net10.0/EsStrategy1.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/bin/Debug/net10.0/EsStrategy1.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/bin/Debug/net10.0/EsStrategy1.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/obj/Debug/net10.0/EsStrategy1.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/obj/Debug/net10.0/refint/EsStrategy1.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/obj/Debug/net10.0/EsStrategy1.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/obj/Debug/net10.0/EsStrategy1.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsStrategy1/obj/Debug/net10.0/ref/EsStrategy1.dll
