@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/obj/Debug/net10.0/EsFacade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/obj/Debug/net10.0/EsFacade.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/obj/Debug/net10.0/EsFacade.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/obj/Debug/net10.0/EsFacade.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/obj/Debug/net10.0/EsFacade.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/bin/Debug/net10.0/EsFacade
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/bin/Debug/net10.0/EsFacade.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/bin/Debug/net10.0/EsFacade.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/bin/Debug/net10.0/EsFacade.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/bin/Debug/net10.0/EsFacade.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/obj/Debug/net10.0/EsFacade.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/obj/Debug/net10.0/refint/EsFacade.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/obj/Debug/net10.0/EsFacade.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/obj/Debug/net10.0/EsFacade.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/EsFacade/obj/Debug/net10.0/ref/EsFacade.dll

@@ -66,9 +66,9 @@ public class Insalata : IPiatto
 //Creazione del factory
 public static class PiattoFactory
 {
-   public IPiatto Crea(string tipo)
+   public static IPiatto Crea(string tipo)
    {
-      switch (tipo.ToLower)
+      switch (tipo.ToLower())
       {
          case ("pizza"):
 
@@ -191,14 +191,14 @@ public abstract class IngredientiExtra : IPiatto
    {
       _componente = componente;
    }
-   public string Descrizione()
+   public virtual string Descrizione()
    {
-      _componente.Descrizione();
+      return _componente.Descrizione();
    }
 
-   public string Prepara()
+   public virtual string Prepara()
    {
-      _componente.Prepara();
+      return _componente.Prepara();
    }
 
 }
@@ -218,7 +218,7 @@ public class ConFormaggio : IngredientiExtra
 
       public override string Prepara()
    {
-      base.Prepara();
+      return base.Prepara();
    }
 
 }
@@ -238,7 +238,7 @@ public class ConBacon : IngredientiExtra
 
    public override string Prepara()
    {
-      base.Prepara();
+      return base.Prepara();
    }
 }
 
@@ -257,7 +257,7 @@ public class ConSalsa : IngredientiExtra
 
       public override string Prepara()
    {
-      base.Prepara();
+      return base.Prepara();
    }
 }
 
@@ -295,20 +295,31 @@ public class Program
 
    public static void Main(string[] args)
    {
+      Chef chef = Chef.GetIstanza();
+      IPiatto piatto = null;
+
       bool isRunning=true;
 
       while (isRunning)
       {
+         #region SceltaPiatto
          MenuPiatti();
          string scelta = Console.ReadLine();
          switch (scelta)
          {
+            //pizza
             case ("1"):
+               piatto = PiattoFactory.Crea("pizza");
                break;
+            //insalata
             case ("2"):
+               piatto = PiattoFactory.Crea("insalata");
                break;
+            //Hamburgher
             case ("3"):
+               piatto = PiattoFactory.Crea("hamburger");
                break;
+            //ext
             case ("0"):
                Console.WriteLine($"Adioss");
                isRunning = false;
@@ -316,19 +327,29 @@ public class Program
 
             default:
                break;
+
+         #endregion
          }
          bool isExtras = true;
          while (isExtras)
          {
+            #region Supplementi
+
             MenuExtra();
-            string scelta = Console.ReadLine();
+            scelta = Console.ReadLine();
             switch (scelta)
             {
+               //Formaggio
                case ("1"):
+                  piatto = new ConFormaggio(piatto);
                   break;
+               //Bacon
                case ("2"):
+                  piatto = new ConBacon(piatto);
                   break;
+               //Salsa
                case ("3"):
+                  piatto = new ConSalsa(piatto); 
                   break;
                case ("0"):
                   Console.WriteLine($"Adioss");
@@ -336,37 +357,46 @@ public class Program
                   break;
 
                default:
+                  Console.WriteLine($"Il supplemento inserito non è nei menù");
+                  
                   break;
             }
-            
+            #endregion
          }
          bool isCotto = true;
          while (isCotto)
          {
             MenuCottura();
-            string scelta = Console.ReadLine();
+            scelta = Console.ReadLine();
             switch (scelta)
             {
+               //Griglia
                case ("1"):
+                  chef.SetStrat(new AllaGriglia());
                   break;
+               //Forno
                case ("2"):
+                  chef.SetStrat(new AlForno());
                   break;
+               //Fritto
                case ("3"):
+                  chef.SetStrat(new Fritto());
                   break;
                case ("0"):
-                  Console.WriteLine($"Adioss");
+                  Console.WriteLine($"Spero tu abbia preso l'insalata");
                   isCotto = false;
                   break;
 
                default:
+                  Console.WriteLine($"Tipo di cottura non supportato..");
                   break;
             }
             
          }
 
          Console.WriteLine($"Vuoi continuare? (Y/N)");
-         string scelta = Console.ReadLine();
-         if(scelta.ToLower() != "y")
+         string sceltaCont = Console.ReadLine();
+         if(sceltaCont.ToLower() != "y")
          {
             Console.WriteLine($"Arrivedorsci");
             isRunning = false;

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EsDecoFact")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EsFacade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69be90d1951a4990471c0f8bbcd03780494bab17")]
-[assembly: System.Reflection.AssemblyProductAttribute("EsDecoFact")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EsDecoFact")]
+[assembly: System.Reflection.AssemblyProductAttribute("EsFacade")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EsFacade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.

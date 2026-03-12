@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/bin/Debug/net10.0/Facade
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/bin/Debug/net10.0/Facade.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/bin/Debug/net10.0/Facade.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/bin/Debug/net10.0/Facade.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/bin/Debug/net10.0/Facade.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/obj/Debug/net10.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/obj/Debug/net10.0/Facade.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/obj/Debug/net10.0/Facade.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/obj/Debug/net10.0/Facade.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/obj/Debug/net10.0/Facade.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/obj/Debug/net10.0/Facade.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/obj/Debug/net10.0/refint/Facade.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/obj/Debug/net10.0/Facade.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/obj/Debug/net10.0/Facade.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/19_Gio_12_03_26/Facade/obj/Debug/net10.0/ref/Facade.dll

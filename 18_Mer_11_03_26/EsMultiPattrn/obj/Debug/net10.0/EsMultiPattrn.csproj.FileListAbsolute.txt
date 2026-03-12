@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/obj/Debug/net10.0/EsMultiPattrn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/obj/Debug/net10.0/EsMultiPattrn.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/obj/Debug/net10.0/EsMultiPattrn.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/obj/Debug/net10.0/EsMultiPattrn.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/obj/Debug/net10.0/EsMultiPattrn.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/bin/Debug/net10.0/EsMultiPattrn
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/bin/Debug/net10.0/EsMultiPattrn.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/bin/Debug/net10.0/EsMultiPattrn.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/bin/Debug/net10.0/EsMultiPattrn.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/bin/Debug/net10.0/EsMultiPattrn.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/obj/Debug/net10.0/EsMultiPattrn.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/obj/Debug/net10.0/refint/EsMultiPattrn.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/obj/Debug/net10.0/EsMultiPattrn.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/obj/Debug/net10.0/EsMultiPattrn.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/18_Mer_11_03_26/EsMultiPattrn/obj/Debug/net10.0/ref/EsMultiPattrn.dll
