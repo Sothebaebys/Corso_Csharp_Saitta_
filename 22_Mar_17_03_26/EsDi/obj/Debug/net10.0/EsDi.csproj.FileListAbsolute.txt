@@ -1,0 +1,15 @@
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/obj/Debug/net10.0/EsDi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/obj/Debug/net10.0/EsDi.AssemblyInfoInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/obj/Debug/net10.0/EsDi.AssemblyInfo.cs
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/obj/Debug/net10.0/EsDi.csproj.CoreCompileInputs.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/obj/Debug/net10.0/EsDi.sourcelink.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/bin/Debug/net10.0/EsDi
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/bin/Debug/net10.0/EsDi.deps.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/bin/Debug/net10.0/EsDi.runtimeconfig.json
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/bin/Debug/net10.0/EsDi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/bin/Debug/net10.0/EsDi.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/obj/Debug/net10.0/EsDi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/obj/Debug/net10.0/refint/EsDi.dll
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/obj/Debug/net10.0/EsDi.pdb
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/obj/Debug/net10.0/EsDi.genruntimeconfig.cache
+/Users/a3b/Documents/GitHub/Corso_GiuseppeSaitta_Csharp/22_Mar_17_03_26/EsDi/obj/Debug/net10.0/ref/EsDi.dll
